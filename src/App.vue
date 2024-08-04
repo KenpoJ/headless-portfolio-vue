@@ -1,10 +1,12 @@
 <script setup>
 // import { RouterLink, RouterView } from 'vue-router'
 import TopHeaderNav from './components/TopHeaderNav.vue'
+import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
   <TopHeaderNav />
+  <HelloWorld msg="Hello World!!!" />
 </template>
 
 <style scoped>
