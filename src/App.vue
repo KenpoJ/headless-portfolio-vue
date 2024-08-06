@@ -5,6 +5,9 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
   <TopHeaderNav />
   <HelloWorld msg="Hello World!!!" />
 </template>
