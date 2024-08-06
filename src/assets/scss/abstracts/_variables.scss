@@ -5,3 +5,8 @@ $light: #cee7ee;
 $medium-light: darken($light, 20%);
 $dark-light: darken($light, 40%);
 $white: #fcfcfc;
+
+$sm-breakpoint: 550px;
+$md-breakpoint: 1160px;
+$lg-breakpoint: 1500px;
+$xl-breakpoint: 1800px;

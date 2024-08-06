@@ -15,11 +15,12 @@ defineProps({
       <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
     </h3>
+    <p>This is a regular paragraph to see the font family working.</p>
   </div>
 </template>
 
 <style scoped>
-h1 {
+/* h1 {
   font-weight: 500;
   font-size: 2.6rem;
   position: relative;
@@ -40,5 +41,5 @@ h3 {
   .greetings h3 {
     text-align: left;
   }
-}
+} */
 </style>
